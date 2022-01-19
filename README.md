@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @rogerio0794
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# **Hi, I'm Rogério** 👩‍💻 👋 
+###  
 
-<!---
-rogerio0794/rogerio0794 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Who am I? 
+
+* 👩‍💻 Data Scientist.
+* 📚 Researcher - wireless communication and signal processing 🥰.
+* 👩‍🏫 Teacher.
+* 👩‍🎓  Technologist in telecommunications systems  -IFSC.
+* 🎓 Master in Electrical Engineering - UFSC.
+
+## Skills 👩‍💻
+
+* 💻 Matlab.
+* 🐍 Python.
+* ✨ Wireless Communication (4G/5G)
+* 🗄 SQL.
+* 🧮 Power BI.
+* 🔮 Machine Learning. 
+* 👀 Data Visualization
+* 📊 Probability and Statistics.
+
+## Find me around the world :earth_americas:
+
+*  [Linkedin](https://www.linkedin.com/in/rog%C3%A9rio-pereira-junior-74b086b5/)
+
+## **My projects**
+
