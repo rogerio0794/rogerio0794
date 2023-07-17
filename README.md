@@ -3,11 +3,11 @@
 
 ## Who am I? 
 
-* 👩‍💻 Data Scientist.
-* 📚 Researcher - wireless communication and signal processing 🥰.
-* 👩‍🏫 Teacher.
-* 👩‍🎓  Technologist in telecommunications systems  -IFSC.
+* 📚 Researcher - wireless communication and signal processing.
+* 👩‍🏫 Professor in the area of telecommunications.
+* 👩‍🎓 Technologist in telecommunications systems  -IFSC.
 * 🎓 Master in Electrical Engineering - UFSC.
+* 🎓 Doctor in Electrical Engineering - UFSC.
 
 ## Skills 👩‍💻
 
@@ -15,10 +15,11 @@
 * 🐍 Python.
 * ✨ Wireless Communication (4G/5G)
 * 🗄 SQL.
-* 🧮 Power BI.
 * 🔮 Machine Learning. 
 * 👀 Data Visualization
 * 📊 Probability and Statistics.
+* 💻 Computer network
+* 💻 Linux
 
 ## Find me around the world :earth_americas:
 
