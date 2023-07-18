@@ -11,9 +11,10 @@
 
 ## Skills 👩‍💻
 
+* ✨ Wireless Communication (4G/5G).
+* ✨ Signal Processing.
 * 💻 Matlab.
 * 🐍 Python.
-* ✨ Wireless Communication (4G/5G)
 * 🗄 SQL.
 * 🔮 Machine Learning. 
 * 👀 Data Visualization
